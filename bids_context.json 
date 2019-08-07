@@ -1,3 +1,9 @@
+""" 
+WIP: json document to store bids attributes from bids spec
+I will add bids attributes which are commons with some 
+nidm-experiments attributes
+"""
+
 {
     "@context": {
         "@version": 1.1,
